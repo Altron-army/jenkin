@@ -1,0 +1,1 @@
+console.log("siddiq shaikh how  r u. this one be the first program in node js")
